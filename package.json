@@ -1,0 +1,24 @@
+{
+  "name": "desafio-pagamento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicaraissapessoa/desafio-pagamento.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/jessicaraissapessoa/desafio-pagamento/issues"
+  },
+  "homepage": "https://github.com/jessicaraissapessoa/desafio-pagamento#readme",
+  "dependencies": {
+    "mocha": "^11.7.6"
+  }
+}
